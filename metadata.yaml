@@ -1,0 +1,33 @@
+_repo: Unwritten-Literature-of-HawaiiThe-Sacred-Songs-of-the-Hula_20299
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Emerson, Nathaniel Bright
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '9216'
+    url: http://www.gutenberg.org/2009/agents/9216
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Bright_Emerson
+description: ''
+gutenberg_bookshelf: Paganism
+gutenberg_issued: '2007-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Songs, Hawaiian'
+- !lcsh 'Hula (Dance)'
+- !lcsh 'Folklore -- Hawaii'
+- !lcsh 'Hawaiian language -- Texts'
+- !lcc 'PL'
+title: 'Unwritten Literature of Hawaii
+
+  The Sacred Songs of the Hula'
+url: http://www.gutenberg.org/ebooks/20299
