@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9216
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Bright_Emerson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20299#Unwritten-Literature-of-HawaiiThe-Sacred-Songs-of-the-Hula
 gutenberg_bookshelf: Paganism
 gutenberg_issued: '2007-01-06'
 gutenberg_type: Text
